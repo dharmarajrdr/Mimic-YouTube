@@ -1,0 +1,4 @@
+#main{
+    flex-wrap: wrap;
+    width: calc(100% - 250px);
+}

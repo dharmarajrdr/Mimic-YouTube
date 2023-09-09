@@ -1,0 +1,11 @@
+#SideNav{
+    width: 250px;
+    height: calc(100vh - 60px);
+    position: sticky;top: 60px;
+    background-color: #eee;
+    overflow-y: scroll;
+}
+
+#SideNav::-webkit-scrollbar{
+    display: none;
+}

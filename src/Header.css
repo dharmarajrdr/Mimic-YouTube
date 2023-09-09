@@ -1,5 +1,7 @@
 #Header {
     width: 100%;
+    position: sticky;top: 0;
+    background-color: #fff;
     height: 60px;
     display: flex;
     flex-direction: row;
